@@ -1,0 +1,20 @@
+2022-11-27 18:24:24,437 INFO n = 7
+2022-11-27 18:24:24,437 INFO suitable
+2022-11-27 18:24:26,786 INFO k = 3
+2022-11-27 18:24:26,786 INFO hidden_num = 3
+2022-11-27 18:24:31,981 INFO input num = 3
+2022-11-27 18:24:31,981 INFO suitable
+2022-11-27 18:24:31,981 INFO the number is guessed
+2022-11-27 18:24:42,546 INFO n = 10
+2022-11-27 18:24:42,546 INFO suitable
+2022-11-27 18:24:44,535 INFO k = 5
+2022-11-27 18:24:44,536 INFO hidden_num = 6
+2022-11-27 18:24:47,395 INFO input num = 3
+2022-11-27 18:24:47,402 INFO suitable
+2022-11-27 18:24:47,402 INFO the number isn't guessed
+2022-11-27 18:24:49,025 INFO input num = 5
+2022-11-27 18:24:49,025 INFO suitable
+2022-11-27 18:24:49,025 INFO the number isn't guessed
+2022-11-27 18:24:52,664 INFO input num = 6
+2022-11-27 18:24:52,664 INFO suitable
+2022-11-27 18:24:52,664 INFO the number is guessed
