@@ -1,7 +1,7 @@
 import random
 import logging
 
-logging.basicConfig(level=logging.INFO, filename="my_log.log", format="%(asctime)s %(levelname)s %(message)s")
+logging.basicConfig(level=logging.INFO, filename="log.log", format="%(asctime)s %(levelname)s %(message)s")
 
 while True:
     try:
